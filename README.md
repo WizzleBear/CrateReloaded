@@ -1,7 +1,7 @@
 # CrateReloaded
 
 The purpose of this repository, as of right now, is to keep track of issues as well as features.
-
+[![discord](https://imgur.com/MFRRBn4.png)](https://discord.gg/0srgnnU1nbB8wMML)
 ## Goals
 * To create a sturdy, rewards system
 * Increase community participation
